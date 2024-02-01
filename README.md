@@ -1,1 +1,5 @@
 # python-visualization-challenge
+
+This is my python visualization challenge module that analyzes information from a pharmaceutical company for treatments being used in anti-cancer treatments. The treatments and drugs are tested on mice and my project analyzes the effect of the drugs on the population of mice. The data is read in from a csv file and focuses on cleaning data in relation to a corrupted mouse (i.e., duplicate). Once the data is prepared it is manipulated and analyzed through various matplotlib functions and plots, which inlcude bar charts, pie charts, box plots, line plots, and scatter plots. In addition, the project uses summary statistics, correlation, and regression to make inferences on the data provided.
+
+For this assignment, StackOverflow and AskBCS assistants were used to help create the filtered dataframes for the summary statistics in order to filter down the data to the specified drug treatment (i.e., Capomulin). In addition, learning assistants were used to help format the boxplots to depict the outlier data to be red and larger in size.
